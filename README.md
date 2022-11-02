@@ -2,6 +2,10 @@
 Wired up the new hotness. 
 
 # Usage
+## Install Dependencies
+```
+npm install
+```
 ## Make project directories
 ```
 mkdir dist src tests
