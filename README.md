@@ -1,7 +1,7 @@
 # boilerplate-jest-typescript-node-18
 Wired up the new hotness. 
 
-# Installation
+# Usage
 ## Make project directories
 ```
 mkdir dist src tests
